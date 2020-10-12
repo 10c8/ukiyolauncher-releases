@@ -1,4 +1,7 @@
 {
-    "versions": ["1.0", "1.1"],
+    "versions": {
+        "1.0": "7f3cd8d039c889511dcd6a240ca95b0f",
+        "1.1": "8e6284a1e3f15ed1875791b3b27afdfa"
+    },
     "latest": "1.1"
 }
