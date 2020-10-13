@@ -3,12 +3,21 @@
 Thank you for helping test the Budogaoka Project alpha releases!
 Your help is moving the project forward! :D
 
-## [2009a06m] - 09-17-2020
+## [2010a07m] - 10-08-2020
 ### Added
- - Implemented the first monster: Bloody Mary! (WIP)
+ - Implemented the first task: Drink Water.
+ - New player model.
+ - New map model.
 
 ### Changed
- - New map model.
+ - Game now has a new artstyle.
+
+## [2009a06m] - 09-17-2020
+### Added
+ - Started implementing the first monster: Bloody Mary!
+
+### Changed
+ - Tweaked some things in the game map.
 
 ### Fixed
  - #0001: Camera top/bottom clamp
