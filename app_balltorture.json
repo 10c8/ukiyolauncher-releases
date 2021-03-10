@@ -1,6 +1,7 @@
 {
     "versions": {
-        "2103A0106": "700a96f1aba31e7b3eb1c7c0d6029184"
+        "2103A0106": "fb01bc32b6243d0e9f7c6f4a38458cde"
     },
-    "latest": "2103A0106"
+    "latest_full": "2103A0106",
+    "latest_update": "2103A0106"
 }
